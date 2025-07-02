@@ -1,4 +1,5 @@
 # ChatbotAI
+ - Agente conversacional desenvolvido para responder perguntas frequentes sobre o curso de Sistemas de Informação, baseado em dados oficiais da universidade.
 
 ## Instruções do Agente
 
